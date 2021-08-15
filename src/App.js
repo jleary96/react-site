@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './taco.jpeg';
 import './App.css';
 
 function App() {
@@ -7,16 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to my page!
+          Taco bout the goodest girl!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
